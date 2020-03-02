@@ -24,5 +24,5 @@ Project Period: 2020.02.16 ~ 2020.02.29
   - Modeling
 
 
-## Public Score Place: 12th
-## Private Score Place: Omission due to submission error
+### Public Score Place: 12th
+### Private Score Place: Omission due to submission error
